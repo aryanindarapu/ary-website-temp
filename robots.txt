@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aryind.info/al-folio/sitemap.xml
+Sitemap: https://aryanindarapu.github.io/al-folio/sitemap.xml
